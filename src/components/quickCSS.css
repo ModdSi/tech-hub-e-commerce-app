@@ -1,0 +1,9 @@
+.productDetail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#view-c:hover {
+  opacity: 0.7;
+}
